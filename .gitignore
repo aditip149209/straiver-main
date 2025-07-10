@@ -60,5 +60,10 @@ dist/
 # Jupyter (if using)
 .ipynb_checkpoints/
 
+
+# Ignore chroma or any generated vector DB folders (optional)
+chroma/
+
 # IDE-specific
 .idea/
+
